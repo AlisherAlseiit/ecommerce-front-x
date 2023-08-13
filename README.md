@@ -7,4 +7,3 @@ npm i zustand
 npm i react-hot-toast
 npm i axios
 
-9:46:11
